@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning NEXT.JS 15
+- Creating chatbot using FastAPI and NEXT.JS
 
   <br />
   <br />
