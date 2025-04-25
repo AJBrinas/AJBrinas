@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Andrew and I am a Full-Stack Developer and an Aspiring Cybersecurity Specialist. Help me reach my goal.
 
 <!--
 **AJBrinas/AJBrinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning NEXT.JS 15
-- Creating chatbot using FastAPI and NEXT.JS
+- 🔭 Creating chatbot using FastAPI and NEXT.JS
+- 🔍 Studying cybersecurity practices,
+
+
 
   <br />
   <br />
